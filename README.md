@@ -49,11 +49,13 @@ This repository contains Node.js implementations for uploading files to AWS S3 B
 
    ```sh
    npm install
+   ```
    # or
+   ```sh
    yarn install
    ```
 
-4. Create a `.env` file in the root directory and add your AWS credentials:
+5. Create a `.env` file in the root directory and add your AWS credentials:
 
    ```
    AWS_ACCESS_KEY_ID=your-access-key-id
@@ -68,7 +70,7 @@ This repository contains Node.js implementations for uploading files to AWS S3 B
    PORT=3000
    ```
 
-5. Start the server:
+6. Start the server:
    ```sh
    npm start
    # or
