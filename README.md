@@ -50,7 +50,6 @@ This repository contains Node.js implementations for uploading files to AWS S3 B
    ```sh
    npm install
    ```
-   # or
    ```sh
    yarn install
    ```
